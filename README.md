@@ -29,7 +29,7 @@ The goal was to forecast revenue trends across 31 therapy clinics for July 2025 
 
 ## 📊 Key Result
 
-- **Forecasted Revenue for July 2025:** ₹1,93,58,713.47  
+- **Forecasted Revenue for July 2025:** ₹1,93,58,713.47  and **the actual grossed to** ₹2,00,6,010
 - The total was computed from SQL-extracted `Non_GST` revenue across all 31 centers.
 
 ---
